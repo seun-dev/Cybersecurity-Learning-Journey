@@ -4,3 +4,4 @@ Topics covered so far include:
 Network design. 
 Cloud and Virtualization. 
 Number sytems. Includes conversion of Binary numbers to Decimal and vice versa.
+Ethernet switching 
